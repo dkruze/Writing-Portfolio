@@ -6,4 +6,3 @@ This repository contains .txt and .pdf versions of my selected writings. Technic
 
 3. CRITIQUES
 
-4. CREATIVE
