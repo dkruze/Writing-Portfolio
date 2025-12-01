@@ -50,6 +50,10 @@ Below is a comprehensive list of the included writings, that may be appended or 
   
  *A critique of Erich von Stroheim's silent film "Greed." The film is famous for being mostly lost, and for its early adoption of many naturalistic cinema techniques, among other things.*
  </li>
+ <li> "JeVousSalue_2025"
+  
+ *A discussion using various academic references of the potential for video games to be intellectual as an art form. Rather than evaluating cases, this is generally an abstract piece describing the potential political/metaphysical utility of video games. This piece is primarily inspired by Jean-Luc Godard's 1970 manifesto "What is to be Done."*
+ </li>
  <li> "KillersoftheFlowerMoon_2023"
   
  *Another of my longest writings on film, this is a summary and analysis of the themes in Martin Scorsese's "Killers of the Flower Moon." Most of the analysis centers on how the film eschews formal concerns in favor of explicit, political messaging.*
@@ -75,10 +79,6 @@ Below is a comprehensive list of the included writings, that may be appended or 
  *An analysis of Carl Theodor Dreyer's "Vampyr," and a breakdown of his methods by assessing his own writings and speeches. This is his most enduring film, and may be his most experimental in its approach to horrific imagery.*
  </li>
   </li>
- <li> "JeVousSalue"
-  
- *A discussion using various academic references of the potential for video games to be intellectual as an art form. Rather than evaluating cases, this is generally an abstract piece describing the potential political/metaphysical utility of video games. This piece is primarily inspired by Jean-Luc Godard's 1970 manifesto "What is to be Done."*
- </li>
  </ul>
 </li>
 </ul>
