@@ -42,6 +42,11 @@ Below is a comprehensive list of the included writings, that may be appended or 
 </li>
 <li> TXTs
  <ul>
+ <li> "AtomBombBaby"
+  
+ *An essay I wrote as a personal exercise for a blog, that grew into something more sophisticated. This serves as a critique of the video game Fallout, something famous and beloved in the American consciousness, and I attempt to describe how something so horrific, violent, and sort of cynical can appeal to our sensibilities and teach us something with its unique, stripped-back style of game design. An analysis of many of its motifs and images also serves to support this.*
+ </li>
+ <ul>
  <li> "GlenorGlenda_1953"
   
  *My longest written work concerning a single film, this document consists of my initial thoughts regarding Ed Wood's first film appended to the bottom of a larger essay on its implications. The essay argues for a certain perspective on Wood's own repressed gender identity, and how his perceived struggle for acceptance can instruct us on current attitudes among marginalized, queer communities.*
@@ -56,7 +61,7 @@ Below is a comprehensive list of the included writings, that may be appended or 
  </li>
  <li> "KillersoftheFlowerMoon_2023"
   
- *Another of my longest writings on film, this is a summary and analysis of the themes in Martin Scorsese's "Killers of the Flower Moon." Most of the analysis centers on how the film eschews formal concerns in favor of explicit, political messaging.*
+ *Another of my longest writings on film, this is a summary and analysis of the themes in Martin Scorsese's "Killers of the Flower Moon." Most of the analysis centers on how the film eschews formal concerns in favor of explicit didacticism.*
  </li>
  <li> "Metropolis_1927"
   
@@ -64,11 +69,11 @@ Below is a comprehensive list of the included writings, that may be appended or 
  </li>
  <li> "OldWave_2025"
   
- *This is a writing describing my own conception of style in electronic (and analog, to an extent,) music, both in how I personally have developed it as a musician/producer, and also how I think it should be studied and perceived academically. This writing covers some of my personal influences and their methods, attempting to describe what we can learn from their experimental methods. I also discuss how the idea of genre can be limiting to our ability to interpret art as abstract or emotive.*
+ *This is a writing describing my own conception of style in electronic (and analog, to an extent,) music, both in how I personally have developed it as a musician/producer, and also how I think to approach it academically. This writing covers some of my personal influences and their methods, attempting to describe what we can learn from their experimental methods. I also discuss how the idea of genre can be limiting to our ability to interpret art.*
  </li>
  <li> "Onibaba_1960"
   
- *An analysis of the political themes and imagery in Kaneto Shindo's "Onibaba." Shindo, as a student of Kenji Mizoguchi, is considered an important figure in film for his unorthodox approach to dialogue and inclusion of leftist themes at a pivotal time in the development of a Japanese new wave movement in film.*
+ *An analysis of the political themes and imagery in Kaneto Shindo's "Onibaba." Shindo, as a student of Kenji Mizoguchi, is considered an important figure in film for his unorthodox approach to dialogue and inclusion of Marxist themes at a pivotal time in the development of a Japanese new wave movement in film.*
  </li>
  <li> "ThroneofBlood_1957"
   
