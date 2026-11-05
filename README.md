@@ -46,7 +46,6 @@ Below is a comprehensive list of the included writings, that may be appended or 
   
  *An essay I wrote as a personal exercise for a blog, that grew into something more sophisticated. This serves as a critique of the video game Fallout, something famous and beloved in the American consciousness, and I attempt to describe how something so horrific, violent, and sort of cynical can appeal to our sensibilities and teach us something with its unique, stripped-back style of game design. An analysis of many of its motifs and images also serves to support this.*
  </li>
- <ul>
  <li> "GlenorGlenda_1953"
   
  *My longest written work concerning a single film, this document consists of my initial thoughts regarding Ed Wood's first film appended to the bottom of a larger essay on its implications. The essay argues for a certain perspective on Wood's own repressed gender identity, and how his perceived struggle for acceptance can instruct us on current attitudes among marginalized, queer communities.*
